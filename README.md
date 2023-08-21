@@ -16,6 +16,9 @@
 <a href="https://www.linkedin.com/in/tabari-linus/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/>
 </a>
+
+<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabari-Linus)](https://github.com/Tabari-Linus/github-readme-stats)
 <!--
 **Tabari-Linus/Tabari-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
