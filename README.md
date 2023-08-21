@@ -9,8 +9,12 @@
 </ul>
 
 ### <p>Just a click away:</p>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://twitter.com/tabarilinus">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-512.png"/>
+</a>
+<span style="padding: 2px;">|</span>
+<a href="https://www.linkedin.com/in/tabari-linus/">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/>
 </a>
 <!--
 **Tabari-Linus/Tabari-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
