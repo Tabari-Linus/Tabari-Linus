@@ -2,7 +2,7 @@
 
 </p>
 <ul>
-  <li>Hi 👋, I'm Mr. Lii
+  <li>Hi 👋, I'm 
   <li>🌱 I’m currently learning Django,DjangoRestFramework,IoT,ROS</li>
   <li>⚡ Fun fact: Don't touch my food 😄</li>
   <li>👯 I’m looking to collaborate on your project</li>
@@ -19,7 +19,7 @@
 
 <br>
 
-<!-- ![Tabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabari-Linus)-->
+![Tabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabari-Linus)
 <!--
 **Tabari-Linus/Tabari-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
