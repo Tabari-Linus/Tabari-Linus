@@ -12,7 +12,7 @@
 <a href="https://twitter.com/tabarilinus">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-512.png"/>
 </a>
-<span style="padding: 2px;">|</span>
+<span style="padding: 4px; height: 10px;">|</span>
 <a href="https://www.linkedin.com/in/tabari-linus/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/>
 </a>
