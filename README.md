@@ -18,7 +18,8 @@
 </a>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabari-Linus)](https://github.com/Tabari-Linus/github-readme-stats)
+
+![Tabari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tabari-Linus)
 <!--
 **Tabari-Linus/Tabari-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
