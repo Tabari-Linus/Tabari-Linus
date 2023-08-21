@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<ul>
+  <li>Hi 👋, I'm Mr. Lii
+  <li>🌱 I’m currently learning Django,DjangoRestFramework,IoT,ROS</li>
+  <li>⚡ Fun fact: Don't touch my food 😄</li>
+  <li>Ready to join you on your project</li>
+</ul>
 <!--
 **Tabari-Linus/Tabari-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
