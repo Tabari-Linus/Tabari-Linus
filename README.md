@@ -3,9 +3,9 @@
 </p>
 <ul>
   <li>Hi 👋, I'm Tabari
-  <li>🌱 I’m currently learning Django,DjangoRestFramework,IoT,ROS</li>
+  <li>🌱 I’m currently learning ML, Django, DjangoRestFramework, IoT, ROS</li>
   <li>⚡ Fun fact: Don't touch my food 😄</li>
-  <li>👯 I’m looking to collaborate on your project</li>
+  <li>👯 I’m looking to collaborate on projects</li>
 </ul>
 
 ### <p>Just a click away:</p>
