@@ -3,7 +3,7 @@
 </p>
 <ul>
   <li>Hi 👋, I'm Tabari
-  <li>🌱 I’m currently learning ML, Data Analytics, Django, DjangoRestFramework, Arduino</li>
+  <li>🌱 A ML,CV, Data Analytics,FullStack Dev</li>
   <li>⚡ Fun fact: Don't touch my food 😄</li>
   <li>👯 I’m looking to collaborate on projects</li>
 </ul>
