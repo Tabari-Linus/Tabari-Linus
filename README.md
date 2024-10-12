@@ -4,7 +4,7 @@
 <ul>
   <li>Hi 👋, I'm Tabari
   <li>🌱 A ML,CV, Data Analytics,FullStack Dev</li>
-  <li>⚡ Fun fact: Don't touch my food 😄</li>
+  <li>⚡ Fun fact: It's easy to forget how much impact you've had.</li>
   <li>👯 I’m looking to collaborate on projects</li>
 </ul>
 
