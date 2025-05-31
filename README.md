@@ -31,9 +31,10 @@
 ###
 ### 🐍 &nbsp;That's How Commits move ...
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tabari-Linus/yTabari-LInus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
     
 <!--
