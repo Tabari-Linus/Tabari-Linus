@@ -3,7 +3,7 @@
 </p>
 <ul>
   <li>Hi 👋, I'm Tabari
-  <li>🌱 A ML,CV, Data Analytics,Backend Dev</li>
+  <li>🌱 Backend Engineer, CV and 🤖</li>
   <li>⚡ Fun fact: All it takes is one good decision.</li>
   <li>👯 I’m looking to collaborate on projects</li>
 </ul>
