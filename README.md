@@ -4,7 +4,7 @@
 <ul>
   <li>Hi 👋, I'm Tabari
   <li>🌱 Backend Engineer, CV and 🤖</li>
-  <li>⚡ Fun fact: All it takes is one good decision.</li>
+  <li>⚡ Fun fact: I love food and enjoy art (Anime, parting, music, etc).</li>
   <li>👯 I’m looking to collaborate on projects</li>
 </ul>
 
