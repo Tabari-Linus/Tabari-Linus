@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  Hi, I'm <strong>Tabari</strong> : a Backend Engineer with a deep interest in Computer Vision and Robotics 🤖.
+  I'm <strong>Tabari</strong> : a Backend Engineer with a deep interest in Computer Vision and Robotics 🤖.
   I enjoy building scalable systems and intelligent applications that sit at the intersection of software, the physical world and delivers real impact.
   Outside of tech, I love food and have a genuine appreciation for art, anime, painting, and music keep me chilling nonestop.
   I'm open to new roles and always keen to collaborate on exciting projects.
