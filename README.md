@@ -7,6 +7,14 @@
   I'm open to new roles and always keen to collaborate on exciting projects.
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/currently-open%20to%20work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/coding-backend%20%7C%20cv%20%26%20robotics-0075ca?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/open%20to-collaboration-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/listening%20on-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+</p>
+
+
 <h2>Connect With Me</h2>
 
 <p align="left">
