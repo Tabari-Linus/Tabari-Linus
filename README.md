@@ -9,9 +9,6 @@
 </ul>
 
 ### <p>Just a click away:</p>
-<a href="https://twitter.com/tabarilinus">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png"/>
-</a>
 <a href="https://www.linkedin.com/in/tabari-linus/" target="_blank" style="margin-left:10px;">
   <i class="fab fa-linkedin" style="font-size:24px;color:#0A66C2;"></i>
 </a>
