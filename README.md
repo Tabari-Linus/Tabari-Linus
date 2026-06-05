@@ -1,50 +1,77 @@
 ### Hi there 👋
 
+<p>
+  Hi, I'm <strong>Tabari</strong> : a Backend Engineer with a deep interest in Computer Vision and Robotics 🤖.
+  I enjoy building scalable systems and intelligent applications that sit at the intersection of software, the physical world and delivers real impact.
+  Outside of tech, I love food and have a genuine appreciation for art, anime, painting, and music keep me chilling nonestop.
+  I'm open to new roles and always keen to collaborate on exciting projects.
 </p>
-<ul>
-  <li>Hi 👋, I'm Tabari
-  <li>🌱 Backend Engineer, Computer Vision and Robotics 🤖</li>
-  <li>⚡ Fun fact: I love food and enjoy art (Anime, parting, music, etc).</li>
-  <li>👯 I’m open to roles and collaboate on projects</li>
-</ul>
 
-### <p>Just a click away:</p>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<h2>Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/tabari-linus/" target="_blank" style="margin-left:10px; text-decoration:none;">
-  <i class="fab fa-linkedin" style="font-size:32px; color:#0A66C2;"></i>
-</a>
-<a href="https://twitter.com/tabarilinus" target="_blank" style="margin-left:10px; text-decoration:none;">
-  <i class="fab fa-twitter" style="font-size:32px; color:#1DA1F2;"></i>
-</a>
-<a href="mailto:ltabari55@gmail.com" target="_blank" style="margin-left:10px; text-decoration:none;">
-  <i class="fas fa-envelope" style="font-size:32px; color:#EA4335;"></i>
-</a>
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/tabari-linus/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tabarilinus" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" title="X / Twitter" />
+  </a>
+  <a href="mailto:ltabari55@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email" />
+  </a>
+</p>
 
 <br>
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35"> <b>Tech Stack</b>
+
+**Languages and Frameworks:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,spring,fastapi,graphql,opencv,tensorflow,pytorch,ros" />
+</p>
+
+**Databases:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,sql" />
+</p>
+
+**Dev Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,bash,github,aws,firebase,postman,prometheus,grafana,idea,vscode,visualstudio" />
+</p>
+
 <br>
 
-<span>✨ _special_ ✨ </span>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tabari-Linus&theme=github_dark" />
+</p>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tabari-Linus&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tabari-Linus&theme=github_dark" />
+</p>
 
 ### Stars ✨ ✨
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tabari-Linus&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tabari-Linus&theme=tokyonight)
+<br>
 
-
-    
+<!-- TODO: Actual project and re description -->
 <!--
-**Tabari-Linus/Tabari-Linus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Employee Management System | Organizational management with company, office, departments and employees | Java SpringBoot , Angular | [Repo](#) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<br>
+
+## 🔬 Research
+
+| Title | Area | Status | Link |
+|-------|------|--------|------|
+| Research Title | Computer Vision | In Progress | [Paper / Repo](#) |
 -->
