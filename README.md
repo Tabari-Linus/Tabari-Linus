@@ -3,19 +3,25 @@
 </p>
 <ul>
   <li>Hi 👋, I'm Tabari
-  <li>🌱 Backend Engineer, CV and 🤖</li>
+  <li>🌱 Backend Engineer, Computer Vision and Robotics 🤖</li>
   <li>⚡ Fun fact: I love food and enjoy art (Anime, parting, music, etc).</li>
-  <li>👯 I’m looking to collaborate on projects</li>
+  <li>👯 I’m open to roles and collaboate on projects</li>
 </ul>
 
 ### <p>Just a click away:</p>
 <a href="https://twitter.com/tabarilinus">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png"/>
 </a>
-<span style="padding: 4px;"></span>
-<a href="https://www.linkedin.com/in/tabari-linus/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/>
+<a href="https://www.linkedin.com/in/tabari-linus/" target="_blank" style="margin-left:10px;">
+  <i class="fab fa-linkedin" style="font-size:24px;color:#0A66C2;"></i>
 </a>
+<a href="https://twitter.com/tabarilinus" target="_blank" style="margin-left:10px;">
+  <i class="fab fa-twitter" style="font-size:24px;color:#0A66C2;"></i>
+</a>
+<a href="mailto:ltabari55@gmail.com"" target="_blank" style="margin-left:10px;">
+  <i class="fab fa-email" style="font-size:24px;color:#0A66C2;"></i>
+</a>
+
 
 <br>
 <br>
