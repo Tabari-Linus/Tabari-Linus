@@ -8,8 +8,18 @@
   <li>👯 I'm open to roles and collaboate on projects</li>
 </ul>
 
-### Just a click away:
-[🔗 LinkedIn](https://www.linkedin.com/in/tabari-linus/) • [𝕏 Twitter](https://twitter.com/tabarilinus) • [📧 Email](mailto:ltabari55@gmail.com)
+### <p>Just a click away:</p>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<a href="https://www.linkedin.com/in/tabari-linus/" target="_blank" style="margin-left:10px; text-decoration:none;">
+  <i class="fab fa-linkedin" style="font-size:32px; color:#0A66C2;"></i>
+</a>
+<a href="https://twitter.com/tabarilinus" target="_blank" style="margin-left:10px; text-decoration:none;">
+  <i class="fab fa-twitter" style="font-size:32px; color:#1DA1F2;"></i>
+</a>
+<a href="mailto:ltabari55@gmail.com" target="_blank" style="margin-left:10px; text-decoration:none;">
+  <i class="fas fa-envelope" style="font-size:32px; color:#EA4335;"></i>
+</a>
 
 
 <br>
